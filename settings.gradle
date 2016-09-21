@@ -1,0 +1,5 @@
+
+rootProject.name = 'AP'
+include 'annotation_processer'
+include 'annotations'
+include 'example'
